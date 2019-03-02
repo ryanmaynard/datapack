@@ -2,7 +2,7 @@
     "name"       : "datapack",
     "displayName": "Datapack",
     "description": "A set of extensions for a data science workflow",
-    "version"    : "0.0.2",
+    "version"    : "0.0.3",
     "publisher"  : "ryanmaynard",
     "author"     : {
         "name" : "Ryan Maynard",
