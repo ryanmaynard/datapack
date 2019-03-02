@@ -8,8 +8,8 @@
 ## Extensions Included
 
 * [Python][python] - Linting, Debugging (multi-threaded, remote), Intellisense, code formatting, refactoring, unit tests, snippets, Data Science (with Jupyter), PySpark and more.  
-* [R][r] - Linting, Debugging (multi-threaded, remote), Intellisense, code formatting, refactoring, unit tests, snippets, Data Science (with Jupyter), PySpark and more.  
-* [VSNotebooks][notebooks] - Linting, Debugging (multi-threaded, remote), Intellisense, code formatting, refactoring, unit tests, snippets, Data Science (with Jupyter), PySpark and more.  
+* [R][r] - Support for R  
+* [VSNotebooks][notebooks] - a robust application that seamlessly combines the power of Visual Studio Code with the interactivity of Jupyter Notebook.
 
 
 ## Todo
