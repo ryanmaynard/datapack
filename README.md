@@ -1,4 +1,7 @@
-[![Datapack logo](logo.png)](http://github.com/ryanmaynard/datapack)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ryanmaynard/datapack/master/logo.png">
+</p>
 
 # DataPack - WIP
 
@@ -12,8 +15,6 @@
 ## Todo
 
 - Add the rest of the extensions
-- Add icon
-- Publish to marketplace
 
 
 ## Contributing

@@ -2,7 +2,7 @@
     "name"       : "datapack",
     "displayName": "Datapack",
     "description": "A set of extensions for a data science workflow",
-    "version"    : "0.0.1",
+    "version"    : "0.0.2",
     "publisher"  : "ryanmaynard",
     "author"     : {
         "name" : "Ryan Maynard",
@@ -16,7 +16,7 @@
 	"bugs": {
 		"url": "https://github.com/ryanmaynard/datapack/issues"
     },
-    "icon"   : "icon.png",
+    "icon"   : "logo.png",
     "engines": {
         "vscode": "^1.31.0"
     },
