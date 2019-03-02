@@ -1,0 +1,41 @@
+{
+    "name"       : "datapack",
+    "displayName": "Datapack",
+    "description": "A set of extensions for a data science workflow",
+    "version"    : "0.0.1",
+    "publisher"  : "ryanmaynard",
+    "author"     : {
+        "name" : "Ryan Maynard",
+        "email": "hi@ryanmaynard.co"
+    },
+    "license"   : "MIT",
+    "repository": {
+		"type": "git",
+		"url" : "https://github.com/ryanmaynard/datapack"
+	},
+	"bugs": {
+		"url": "https://github.com/ryanmaynard/datapack/issues"
+    },
+    "icon"   : "icon.png",
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "keywords": [
+        "python",
+        "jupyter",
+        "r",
+        "jupyter notebook"
+	],
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "ryanmaynard.datapack"
+    ],
+    "extensionDependencies": [ 
+        "Ikuyadeu.r", 
+        "ms-python.python",
+        "pavan.VSNotebooks",
+      	"VisualStudioExptTeam.vscodeintellicode"
+    ]
+}
