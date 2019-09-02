@@ -36,6 +36,7 @@
         "Ikuyadeu.r", 
         "ms-python.python",
         "pavan.VSNotebooks",
-      	"VisualStudioExptTeam.vscodeintellicode"
+        "VisualStudioExptTeam.vscodeintellicode",
+        "neuron.neuron-IPE"  
     ]
 }
